@@ -1,3 +1,4 @@
 # Ignore data files
 data/
 deberta-v3-base-finetuned-brainteaser/
+test-results/
