@@ -159,4 +159,9 @@ dependencies:
   - zeromq=4.3.5=hcec6c5f_0
   - zlib=1.2.13=h4b97444_1
   - zstd=1.5.6=h138b38a_0
+  - pip:
+      - accelerate==1.1.0
+      - protobuf==5.28.3
+      - sentencepiece==0.2.0
+      - tiktoken==0.8.0
 prefix: /opt/anaconda3/envs/brainteaser
