@@ -2,3 +2,5 @@
 data/
 deberta-v3-base-finetuned-brainteaser/
 test-results/
+
+.DS_Store
